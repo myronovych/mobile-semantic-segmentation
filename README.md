@@ -1,6 +1,6 @@
 # Real-Time Semantic Segmentation in Mobile device
 
-This project is an example project of semantic segmentation for mobile real-time app.
+This project is an example project of semantic segmentation for mobile real-time app and is made by https://github.com/akirasosa.
 
 The architecture is inspired by [MobileNetV2](https://arxiv.org/abs/1801.04381) and [U-Net](https://arxiv.org/abs/1505.04597).
 
